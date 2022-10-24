@@ -13,7 +13,9 @@ Here is the interaction diagram between above listed three services.
 
 Open SpringEurekaServerApplication class that spring already has generated in the downloaded project and add the @EnableEurekaServerannotation on the class.
 
-  
+
+
+
 @EnableEurekaServer
 @SpringBootApplication
 public class SpringEurekaServerApplication {
